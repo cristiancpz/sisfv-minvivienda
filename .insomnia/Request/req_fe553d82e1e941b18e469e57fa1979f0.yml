@@ -1,0 +1,29 @@
+_id: req_fe553d82e1e941b18e469e57fa1979f0
+type: Request
+parentId: fld_51919fd8ab1f4b9294f506802b3e65a6
+modified: 1686385310368
+created: 1686385310368
+url: "{{url-of}}AddProgramaViviendaOferente"
+name: Add Programa de Vivienda a Oferente
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: "{\r
+
+    \    \"idOferente\": 2,\r
+
+    \    \"idProgramasVivienda\": 8\r
+
+    }"
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686385310368
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

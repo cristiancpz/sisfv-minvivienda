@@ -1,0 +1,21 @@
+_id: req_2a883c65a5ae41819dd04b5ec7814874
+type: Request
+parentId: fld_51919fd8ab1f4b9294f506802b3e65a6
+modified: 1686385310364
+created: 1686385310364
+url: "{{url-of}}GetAllProgramasVivienda/"
+name: Obtener Planes Vivienda
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686385310364
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_525c20ac637c4f428e3a1b79e6a3fdb9
+type: Request
+parentId: fld_51919fd8ab1f4b9294f506802b3e65a6
+modified: 1686385310366
+created: 1686385310366
+url: "{{url-of}}GetProgramasViviendaByIdOferente/2"
+name: Obtener Planes Vivienda Por IdOferente
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686385310366
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

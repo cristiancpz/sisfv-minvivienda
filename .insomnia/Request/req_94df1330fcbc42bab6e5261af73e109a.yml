@@ -1,0 +1,29 @@
+_id: req_94df1330fcbc42bab6e5261af73e109a
+type: Request
+parentId: fld_51919fd8ab1f4b9294f506802b3e65a6
+modified: 1686385310369
+created: 1686385310369
+url: "{{url-of}}RemoveProgramaViviendaOferente"
+name: Remover Programa de Vivienda a Oferente Copy
+description: ""
+method: DELETE
+body:
+  mimeType: ""
+  text: "{\r
+
+    \    \"idOferente\":2,\r
+
+    \    \"idProgramaVivienda\": 7\r
+
+    }"
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686385310369
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
